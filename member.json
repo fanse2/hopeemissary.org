@@ -1,32 +1,92 @@
 [
     {
         "id":0,
-        "name":"홍길동",
-        "pic" :"assets/img/team/1.jpg",
-        "title": "지부장 1"
+        "name":"조광세",
+        "pic" :"assets/img/team/회장님.jpg",
+        "title": "총회장"
     },
     {
-        "id":0,
-        "name":"신사임당",
-        "pic" :"assets/img/team/2.jpg",
-        "title": "지부장 2"
+        "id":1,
+        "name":"문상귀",
+        "pic" :"assets/img/team/문상귀 수석부회장.jpeg",
+        "title": "수석 부회장"
     },
     {
-        "id":0,
-        "name":"척준경",
-        "pic" :"assets/img/team/3.jpg",
-        "title": "지부장 3"
+        "id":2,
+        "name":"토마스 김",
+        "pic" :"assets/img/team/라스베가스협의회토마스김회장사진.jpg",
+        "title": "KALA of Las Vegas"
     },
     {
-        "id":0,
-        "name":"이순신",
-        "pic" :"assets/img/team/1.jpg",
-        "title": "지부장 4"
+        "id":3,
+        "name":"손인석",
+        "pic" :"assets/img/team/샌루이스협의회 손인석회장사진.jpeg",
+        "title": "KALA of Saint Louis"
     },
     {
-        "id":0,
-        "name":"김 마리아",
-        "pic" :"assets/img/team/2.jpg",
-        "title": "지부장 5"
+        "id":4,
+        "name":"강승구",
+        "pic" :"assets/img/team/샌프란시스코협의회 강승구회장사진.jpeg",
+        "title": "KALA of San Francisco"
+    },
+    {
+        "id":5,
+        "name":"박민성",
+        "pic" :"assets/img/team/알라바마협의회 박민성회장사진.jpeg",
+        "title": "KALA of Alabama"
+    },
+    {
+        "id":6,
+        "name":"강대호",
+        "pic" :"assets/img/team/오래곤협의회 강대호회장사진.jpeg",
+        "title": "KALA of Oregon"
+    },
+    {
+        "id":7,
+        "name":"정동원",
+        "pic" :"assets/img/team/유타협의회 정동원회장사진.jpg",
+        "title": "KALA of Utah"
+    },
+    {
+        "id":8,
+        "name":"이경철",
+        "pic" :"assets/img/team/조지아협의회 이경철회장사진.jpeg",
+        "title": "KALA of Georgia"
+    },
+    {
+        "id":9,
+        "name":"정정자",
+        "pic" :"assets/img/team/휴스톤협의회 정정자회장사진.jpg",
+        "title": "KALA of Houston"
+    },
+    {
+        "id":10,
+        "name":"박봉룡",
+        "pic" :"assets/img/team/하와이협의회 박봉룡회장님 사진.jpg",
+        "title": "KALA of Hawaii"
+    },
+    {
+        "id":11,
+        "name":"한태동",
+        "pic" :"assets/img/team/케롤라이니협의회 한태동회장사진.jpeg",
+        "title": "KALA of Carolina"
+    },
+    {
+        "id":12,
+        "name":"신원택",
+        "pic" :"assets/img/team/스포캔협의회 신원택회장.jpg",
+        "title": "KALA of Spokane"
+    },
+    {
+        "id":13,
+        "name":" 김전회",
+        "pic" :"assets/img/team/베이커스필드협의회 김전회회장s.jpg",
+        "title": "KALA of Bakersfield"
+    },
+    {
+        "id":14,
+        "name":"주은섭",
+        "pic" :"assets/img/team/아리조나협의회 주은섭회장명함s.jpg",
+        "title": "KALA of Arizona"
     }
 ]
