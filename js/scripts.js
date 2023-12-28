@@ -1,9 +1,52 @@
+// let memData = [
+//     {
+//         id:0,
+//         name:"홍길동",
+//         pic :"assets/img/team/1.jpg",
+//         title: "지부장 1"
+//     },
+//     {
+//         id:0,
+//         name:"신사임당",
+//         pic :"assets/img/team/2.jpg",
+//         title: "지부장 2"
+//     },
+//     {
+//         id:0,
+//         name:"척준경",
+//         pic :"assets/img/team/3.jpg",
+//         title: "지부장 3"
+//     },
+//     {
+//         id:0,
+//         name:"이순신",
+//         pic :"assets/img/team/1.jpg",
+//         title: "지부장 4"
+//     },
+//     {
+//         id:0,
+//         name:"김 마리아",
+//         pic :"assets/img/team/2.jpg",
+//         title: "지부장 5"
+//     }
+// ]
+// memData = fetch('./member.json')
+
 const App = Vue.createApp({
     data() {
         return {
-            message: "미주한인지도자협의회"
+            message: "미주한인지도자협의회",
+            member: null,
         }
-    }
+    },
+    methods:{
+
+    },
+    mounted() {
+        fetch('./member.json')
+            .then(res => res.json())
+            .then(data=> this.member = data)
+    },
 })
 App.mount('#page-top')
 
